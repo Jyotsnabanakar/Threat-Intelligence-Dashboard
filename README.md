@@ -94,12 +94,6 @@ Follow these steps to install and run the project locally:
    python app.py
    ```
 
-   The application will start running at `http://127.0.0.1:5000/`.
-
-2. **Access the Dashboard:**
-
-   Open a web browser and go to `http://127.0.0.1:5000/` to view the dashboard.
-
 ## Project Structure
 
 Here’s a breakdown of the project structure:
